@@ -1,0 +1,28 @@
+{
+    "Tareas" : [
+        {
+            "Titulo" : "Crear pagina de tareas de NitenIchi",
+            "Responsable" : "Claudio",
+            "Descripcion" : "Lorem impsum",
+            "Prioridad" : "Baja"
+        },
+        {
+            "Titulo" : "Sacarse su vacile",
+            "Responsable" : "Claudio",
+            "Descripcion" : "Lorem impsum",
+            "Prioridad" : "Alta"
+        },
+        {
+            "Titulo" : "Dormir",
+            "Responsable" : "Claudio",
+            "Descripcion" : "Lorem impsum",
+            "Prioridad" : "Alta"
+        },
+        {
+            "Titulo" : "Seguir carretiando",
+            "Responsable" : "Claudio",
+            "Descripcion" : "Lorem impsum",
+            "Prioridad" : "Alta"
+        }
+    ]
+}
