@@ -13,7 +13,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <Navigation titulo="Tareas"  />
+        <Navigation titulo="Tareas" />
 
         <div className="container">
           <div className="row mt-4">
@@ -33,7 +33,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
         </header>
 
-
+        <iframe src="https://embedsocial.com/facebook_album/pro_instagram/d84f37f4cd32d888e22e48bf1bd0e2e2b49abfaa" width="1200px" height="1200px" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+        
       </div>
     );
   }
